@@ -130,7 +130,9 @@ A group project is a crucial part of this course. 3-4 students will form a proje
 
 So far the former is not directly related to probabilistic programming, but it may become so in the future. Some machine-learning experts predict that causality would become the next big thing. The second topic is Pyro, a probabilistic programming language being developed by Uber. Pyro aims at brining probabilistic programming and deep learning together. The language includes novel language primitives and its implementation uses interesting techniques and optimisations. 
 
-1. **Causality** Causality refers to attempts for discovering the cause-and-effect relationship among various factors (or variables) from data (and a given set of assumptions), reasoning about the consequence of an intervention (such as medical treatment), and deriving useful information about counterfactuals. It is one of the emerging topics in machine learning, with a lot of blessings from Judea Pearl, a pioneer in the probabilistic approach to machine learning. In particular, bringing deep learning and causality together is one of the active research areas. 
+##### **1.Causality** 
+
+Causality refers to attempts for discovering the cause-and-effect relationship among various factors (or variables) from data (and a given set of assumptions), reasoning about the consequence of an intervention (such as medical treatment), and deriving useful information about counterfactuals. It is one of the emerging topics in machine learning, with a lot of blessings from Judea Pearl, a pioneer in the probabilistic approach to machine learning. In particular, bringing deep learning and causality together is one of the active research areas. 
 
 So far causality has not been studied seriously by researchers in the probabilistic programming community, although it may be explained more clearly in the context of probabilistic programming. An ultimate goal of this survey-style group project is to fill in this gap slightly, find out a way of bringing causality and probabilistic programming together, and help students to see the benefits of doing it. Of course, this is a challenging goal, and it is ok to fail. But having such a goal is likely to help students in this project to understand causality better.
 
@@ -143,7 +145,9 @@ standard reference.
 
 The lack of further reference does not mean the lack of related papers. Rather it means that this is an active research topic that we ourselves just started to look at recently.
 
-2. **Pyro and its internals** Pyro is a probabilistic programming language from Uber, which attempts to bring deep learning and probabilistic programming together. It is still in the middle of being developed. Its design and implementations are not finalised yet, and change constantly. Pyro runs on top of pytorch.
+##### **2. Pyro and its internals** 
+
+Pyro is a probabilistic programming language from Uber, which attempts to bring deep learning and probabilistic programming together. It is still in the middle of being developed. Its design and implementations are not finalised yet, and change constantly. Pyro runs on top of pytorch.
 
 Pyro contains novel language primitives, such as plate, random module and tensor shape for distribution object, which help programmers or data scientists to express their intentions more clearly. Also, its implementation uses interesting techniques, such as poutine, automatic guide generation, and selective marginalisation of discrete random variables using the broadcasting mechanism. These techniques enable efficient probabilistic inference. Finally, there are cool Pyro examples, such as Attend-Infer-Repeat, that use neural networks and probabilistic programming together.   
 
