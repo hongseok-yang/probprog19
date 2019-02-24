@@ -113,11 +113,11 @@ A group project is a crucial part of this course. 3-4 students will form a proje
 
 2. **Track B**: At most two groups will be on this track. The goal of a group in this case is to study an advanced research topic on probabilistic programming or machine learning, to gain deep understanding about it, and to help fellow students acquire the same level of understanding. Specifically, a group performs an in-depth study on one of two advanced hot topics, causality and Pyro. Then, the group in this track has to teach what it learnt to other students in the course. By teaching, we mean (i) a presentation on the studied topic and (ii) a preparation of reading material and exercise problems. Also, the group has to submit a report on what they learnt. We recommend the report to be 2-to-4 pages long, although it can be longer if needed. Further information about causality and Pyro is given at the end of this webpage.
 
-### Group (Track A)
+#### Group (Track A)
 
-### Group (Track B)
+#### Group (Track B)
 
-### Concrete Tasks
+#### Concrete Tasks
 
 1. **[Deadline: midnight on 13 March (Wed)]** Form a group and inform us by email (Hongseok, Hyunsu and Kwonsoo). 
 2. **[3 April (Wed)]** Presentation of each group about its topic.
@@ -126,9 +126,7 @@ A group project is a crucial part of this course. 3-4 students will form a proje
 5. **[3 June (Mon), 5 June (Wed)]** Presentation of group projects.
 6. **[Deadline: midnight on June 7 (Fri)]** Submit a report on the project. We recommend each report to be 2-to-4 pages long, although it is fine to write a longer report if needed.
 
-### Two Topics in Track B
-
-So far the former is not directly related to probabilistic programming, but it may become so in the future. Some machine-learning experts predict that causality would become the next big thing. The second topic is Pyro, a probabilistic programming language being developed by Uber. Pyro aims at brining probabilistic programming and deep learning together. The language includes novel language primitives and its implementation uses interesting techniques and optimisations. 
+#### Two Topics in Track B
 
 ##### **1. Causality** 
 
