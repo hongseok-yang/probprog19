@@ -14,7 +14,7 @@ You don't have to submit your answer. But we strongly recommend you to try it. T
 
 #### [February 25] Project group.
 
-The group project is an important part of this course. Find your project partners by March 13 2018, and inform all of Hongseok, Hyunsu and Kwonsoo by email. Each group should consist of 3-4 students. Finally, if your group wants to go for Track B, contact Hongseok as early as possible by email. 
+The group project is an important part of this course. Find your project partners by 13 March 2019, and inform all of Hongseok, Hyunsu and Kwonsoo by email. Each group should consist of 3-4 students. Finally, if your group wants to go for Track B, contact Hongseok as early as possible by email. 
 
 ## 2. Logistics
 
