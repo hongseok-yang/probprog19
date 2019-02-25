@@ -117,6 +117,8 @@ A group project is a crucial part of this course. 3-4 students will form a proje
 
 #### Group (Track B)
 
+1. YoonSeo Kim, JaeSeong Lee, Jinwon Lee - Pyro and its internals.
+
 #### Concrete Tasks
 
 1. **[Deadline: midnight on 13 March (Wed)]** Form a group and inform us by email (Hongseok, Hyunsu and Kwonsoo). 
