@@ -47,6 +47,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 ## 4. Tentative Plan
 
 * 02/25 (Mon) - Introduction. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture1/Lecture1.pdf). [Homework0](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework0/homework0.pdf).
+* 02/27 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture2/Lecture2.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture2/RandomFibLec2.clj). [Programs](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture2/).
 * 02/27 (Wed) - Basics of Clojure and Tiny Bit of Anglican. 
 * 03/04 (Mon) - Basics of Clojure and Tiny Bit of Anglican. 
 * 03/06 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
