@@ -118,7 +118,7 @@ A group project is a crucial part of this course. 3-4 students will form a proje
 
 #### Group (Track B)
 
-1. YoonSeo Kim, JaeSeong Lee, Jinwon Lee - Pyro and its internals.
+1. Yoonseo Kim, Jaeseong Lee, Jinwon Lee, and Soyoon Oh - Pyro and its internals.
 2. Yongsu Baek, Junho Han, Jihoon Ko, and Seungwoo Lee - Causality.
 
 #### Concrete Tasks
