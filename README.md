@@ -1,6 +1,6 @@
-# CS492 Probabilistic Programming, Spring 2019, KAIST 
+# CS423 Probabilistic Programming, Spring 2019, KAIST 
 
-This is a webpage of the course "CS492 Probabilistic Programming", which is offered at the KAIST CS department in the spring of 2019. The webpage will contain links to lecture slides and other course-related materials.
+This is a webpage of the course "CS423 Probabilistic Programming", which is offered at the KAIST CS department in the spring of 2019. The webpage will contain links to lecture slides and other course-related materials.
 
 Probabilistic programming refers to the idea of developing a programming language for writing and reasoning about probabilistic models from machine learning and statistics. Such a language comes with the implementation of several generic inference algorithms that answer various queries about the models written in the language, such as posterior inference and marginalisation. By providing these algorithms, a probabilistic programming language enables data scientists to focus on designing good models based on their domain knowledge, instead of building effective inference engines for their models, a task that typically requires expertise in machine learning, statistics and systems. Even experts in machine learning and statistics may get benefited from such a probabilistic programming system because using the system they can easily explore highly advanced models.
 
@@ -118,6 +118,7 @@ A group project is a crucial part of this course. 3-4 students will form a proje
 #### Group (Track B)
 
 1. YoonSeo Kim, JaeSeong Lee, Jinwon Lee - Pyro and its internals.
+2. Jihoon Go, Junho Han, Seungwoo Lee, and Yongsu Paek - Causality.
 
 #### Concrete Tasks
 
