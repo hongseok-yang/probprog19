@@ -8,8 +8,8 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
-### [February 25] TA office hour
-Kwonsoo and Hyunsu will have TA office hours from 3:00pm to 5:00pm on every Tuesday at the room 3415 in the E3-1 building starting from 5 March.
+#### [February 27] TA office hour
+Kwonsoo and Hyunsu will have a TA office hour from 3:00pm to 5:00pm on every Tuesday at the room 3415 in the E3-1 building starting from 5 March.
 
 #### [February 25] [Homework0](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework0/homework0.pdf) is out.
 
