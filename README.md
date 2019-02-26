@@ -8,6 +8,9 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+### [February 25] TA office hour
+Kwonsoo and Hyunsu will have TA office hours from 3:00pm to 5:00pm on every Tuesday at the room 3415 in the E3-1 building starting from 5 March.
+
 #### [February 25] [Homework0](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework0/homework0.pdf) is out.
 
 You don't have to submit your answer. But we strongly recommend you to try it. This homework will teach you how to run Anglican.
@@ -25,8 +28,8 @@ The group project is an important part of this course. Find your project partner
 #### Teaching Staffs
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hours: 6:00pm - 7:00pm on Monday at the room 3403 in the E3-1 building)
-* TA1: Kwonsoo Chae (email: kwonsoo.chae@gmail.com, office hours: to be announced)
-* TA2: Hyunsu Kim (email: khszone02@kaist.ac.kr, office hours: to be announced)
+* TA1: Kwonsoo Chae (email: kwonsoo.chae@gmail.com, office hours: 3:00pm - 5:00pm on every other Tuesday starting from 5 March at 3415 in E3-1)
+* TA2: Hyunsu Kim (email: khszone02@kaist.ac.kr, office hours: 3:00pm - 5:00pm on every other Tuesday starting from 12 March at 3415 in E3-1)
 
 #### Place and Time
 
