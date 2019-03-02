@@ -119,6 +119,8 @@ A group project is a crucial part of this course. 3-4 students will form a proje
 
 #### Group (Track A)
 
+1. Seungmin Ahn, Woogeun Bae, Wonjoon Jang, and Hyungseung Whang
+
 #### Group (Track B)
 
 1. Jaeseong Lee, Jinwon Lee, and Soyoon Oh - Pyro and its internals.
