@@ -8,8 +8,8 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
-#### [February 27] TA office hour
-Kwonsoo and Hyunsu will have a TA office hour from 3:00pm to 5:00pm on every Tuesday at the room 3415 in the E3-1 building starting from 5 March.
+#### [February 27] TA office hours
+Kwonsoo and Hyunsu will have TA office hours from 3:00pm to 5:00pm on every Tuesday at the room 3415 in the E3-1 building starting from 5 March.
 
 #### [February 25] [Homework0](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework0/homework0.pdf) is out.
 
@@ -51,9 +51,8 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 * 02/25 (Mon) - Introduction. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture1/Lecture1.pdf). [Homework0](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework0/homework0.pdf).
 * 02/27 (Wed) - Basics of Clojure and Tiny Bit of Anglican. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture2/Lecture2.pdf). [Gorilla worksheet](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture2/RandomFibLec2.clj). [Programs](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture2/).
-* 02/27 (Wed) - Basics of Clojure and Tiny Bit of Anglican. 
 * 03/04 (Mon) - Basics of Clojure and Tiny Bit of Anglican. 
-* 03/06 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
+* 03/06 (Wed) - Posterior Inference, Basics of Anglican, and Importance Sampling. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture3/Lecture3.pdf). 
 * 03/11 (Mon) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
 * 03/13 (Wed) - Generative Modelling with Anglican. 
 * 03/18 (Mon) - Generative Modelling with Anglican. 
@@ -147,7 +146,7 @@ Here are a few references on causality that we recommend.
 
   1. Ferenc Huszar's blog articles are very good, and introduce causality gently and intuitively. ([article1](https://www.inference.vc/untitled/), [article2](https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/), [article3](https://www.inference.vc/causal-inference-3-counterfactuals/)). It is also worth reading comments of these articles. In particular, one of the comments of the first article lists recent papers on deep learning and causality.
 
-  2. Judea Pearl has been working on causality for many years. [His interview](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/) gives you a glimpse into why he is so passionate about this topic. According to what we hear, his recent general-science book "[The Book of Why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)" is very readable and provides good informal overview on causality. Pearl's book "[Causality: Models, Reasoning and Inference](https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=2Q592JDB4F5N9XZQXH7W)" is the standard reference. 
+  2. Judea Pearl has been working on causality for many years. [His interview](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/) gives you a glimpse into why he is so passionate about this topic. According to what we hear, his recent general-science book "[The Book of Why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)" is very readable and provides good informal overview on causality. Pearl's book "[Causality: Models, Reasoning and Inference](https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=2Q592JDB4F5N9XZQXH7W)" is the standard reference. Finally, it may be worth reading Pearl's recent [article](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext) on causality in CACM. 
 
 ##### **2. Pyro and its internals** 
 
