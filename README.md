@@ -8,6 +8,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [March 9] [Homework1](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework1/homework1-questions.pdf) is out.
+
+The deadline is 6:00pm on 22 March 2019 (Friday). Submit your solutions to the TAs by putting them in the homework submission box on the third floor of the E3-1 building. If you type up your solutions, you can email them to TAs. In that case, email them to both Mr Kwonsoo Chae (kwonsoo.chae@gmail.com) and Mr Hyunsu Kim (khszone02@kaist.ac.kr).
+
 #### [February 27] TA office hours
 Kwonsoo and Hyunsu will have TA office hours from 3:00pm to 5:00pm on every Tuesday at the room 3415 in the E3-1 building starting from 5 March.
 
@@ -43,9 +47,11 @@ The group project is an important part of this course. Find your project partner
 
 ## 3. Homework
 
-Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
+Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building. If you type up your solutions, you can email them to TAs. In that case, email them to both Mr Kwonsoo Chae (kwonsoo.chae@gmail.com) and Mr Hyunsu Kim (khszone02@kaist.ac.kr).
 
 * [Homework0](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework0/homework0.pdf) - Don't submit.
+* [Homework1](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework1/homework1-questions.pdf) - Deadline: 6:00pm on 22 March 2019.
+
 
 ## 4. Tentative Plan
 
