@@ -126,7 +126,7 @@ A group project is a crucial part of this course. 3-4 students will form a proje
 
 1. Seungmin Ahn, Woogeun Bae, Wonjoon Jang, and Hyungseung Whang.
 2. Youngin Lee, Vu Phuong Thao, Magnus Myrmo Osberg, and Hyeonguk Ryu.
-3. Changmin Leem, An Guoyuan, Minsu Kim, and Ahcheong Lee.
+3. Changmin Lee, An Guoyuan, Minsu Kim, and Ahcheong Lee.
 4. Seongwoong Jo, Dohyun Kim, Minji Lee, and Dongpyeong Seo.
 5. Yoonseo Kim, Haebeom Lee, and Yuna Seol.
 6. Seunghyeob Lee.
