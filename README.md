@@ -62,7 +62,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 03/11 (Mon) - Posterior Inference, Basics of Anglican, and Importance Sampling. 
 * 03/13 (Wed) - Generative Modelling with Anglican. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture4/Lecture4.pdf). [Gorilla worksheet for 2D physics](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture4/PhysicsLec4.clj). [Gorilla worksheet for program induction](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture4/ProgIndLec4.clj). (Note: In order to run the 2D physics example, you will have to copy [bounce.clj](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture4/bounce.clj) to the anglican-user/src directory and replace anglican-user/project.clj by [this file](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture4/project.clj)).
 * 03/18 (Mon) - Generative Modelling with Anglican. 
-* 03/20 (Wed) - Markov Chain Monte Carlo. 
+* 03/20 (Wed) - Markov Chain Monte Carlo. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture5/Lecture5.pdf).
 * 03/25 (Mon) - Markov Chain Monte Carlo. 
 * 03/27 (Wed) - Markov Chain Monte Carlo. 
 * 04/01 (Mon) - Implementing Inference Algorithms for Probabilistic Programs. 
