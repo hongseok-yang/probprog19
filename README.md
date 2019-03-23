@@ -8,6 +8,17 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [March 23] Penality scheme for late homework submissions.
+
+Here is our scheme for handling late homework submissions. It assumes that 
+the total marks are 100.
+
+1. <= One day late: -10
+2. <= Two days late: -20
+3. <= Three days late: -30
+4. <= Four days late: -40
+5. More than four days late: -100.
+
 #### [March 9] [Homework1](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework1/homework1-questions.pdf) is out.
 
 The deadline is 6:00pm on 22 March 2019 (Friday). Submit your solutions to the TAs by putting them in the homework submission box on the third floor of the E3-1 building. If you type up your solutions, you can email them to TAs. In that case, email them to both Mr Kwonsoo Chae (kwonsoo.chae@gmail.com) and Mr Hyunsu Kim (khszone02@kaist.ac.kr).
