@@ -8,6 +8,21 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [March 28] Project pitch on 3 April.
+
+On 3 April, each project group will have to give a short presentation on its project. The presentation will have to be mainly about topic, motivation, plan and preliminary findings. Groups on track A will have to prepare 10-minute presentations, which should include time for the Q&A session. Groups on track B will have to prepare 5-minute presentations, which also should include time for the Q&A session. The presentations of the groups on track B may be slightly different and focus on giving previews on the topics that they will teach. The order of presentation is as follows:
+
+1. Seungmin Ahn, Woogeun Bae, Wonjoon Jang, and Hyungseung Whang.
+2. Youngin Lee, Vu Phuong Thao, Magnus Myrmo Osberg, and Hyeonguk Ryu.
+3. Changmin Lee, An Guoyuan, Minsu Kim, and Ahcheong Lee.
+4. Seongwoong Jo, Dohyun Kim, Minji Lee, and Dongpyeong Seo.
+5. Yoonseo Kim, Haebeom Lee, and Yuna Seol.
+6. Seunghyeob Lee.
+7. Sanguk Park.
+8. Jaeseong Lee, Jinwon Lee, and Soyoon Oh.
+9. Yongsu Baek, Junho Han, Jihoon Ko, and Seungwoo Lee.
+
+
 #### [March 23] Penality scheme for late homework submissions.
 
 Here is our scheme for handling late homework submissions. It assumes that 
@@ -141,7 +156,7 @@ A group project is a crucial part of this course. 3-4 students will form a proje
 4. Seongwoong Jo, Dohyun Kim, Minji Lee, and Dongpyeong Seo.
 5. Yoonseo Kim, Haebeom Lee, and Yuna Seol.
 6. Seunghyeob Lee.
-6. Sanguk Park.
+7. Sanguk Park.
 
 #### Group (Track B)
 
