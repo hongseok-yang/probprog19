@@ -8,6 +8,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [March 31] [Homework2](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework2/homework2-questions.pdf) is out.
+
+The deadline is 6:00pm on 12 April 2019 (Friday). Submit your solutions to the TAs by putting them in the homework submission box on the third floor of the E3-1 building. If you type up your solutions, you can email them to TAs. In that case, email them to both Mr Kwonsoo Chae (kwonsoo.chae@gmail.com) and Mr Hyunsu Kim (khszone02@kaist.ac.kr).
+
 #### [March 28] Project pitch on 3 April.
 
 On 3 April, each project group will have to give a short presentation on its project. The presentation will have to be mainly about topic, motivation, plan and preliminary findings. Groups on track A will have to prepare 10-minute presentations, which should include time for the Q&A session. Groups on track B will have to prepare 5-minute presentations, which also should include time for the Q&A session. The presentations of the groups on track B may be slightly different and focus on giving previews on the topics that they will teach. The order of presentation is as follows:
