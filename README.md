@@ -81,6 +81,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 * [Homework0](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework0/homework0.pdf) - Don't submit.
 * [Homework1](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework1/homework1-questions.pdf) - Deadline: 6:00pm on 22 March 2019.
+* [Homework2](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework2/homework2-questions.pdf) - Deadline: 6:00pm on 12 April 2019.
 
 
 ## 4. Tentative Plan
