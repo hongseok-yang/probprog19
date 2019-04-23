@@ -102,7 +102,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 04/10 (Wed) - Implementing Inference Algorithms for Probabilistic Programs. 
 * __**04/15 (Mon), 04/17 (Wed) - NO LECTURES. Midterm Exam.**__
 * 04/22 (Mon) - Implementing Inference Algorithms for Probabilistic Programs.
-* 04/24 (Wed) - Stochastic Variational Inference. 
+* 04/24 (Wed) - Stochastic Variational Inference. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture7/Lecture7.pdf). Handwritten Notes: [1](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture7/board1.jpg), [2](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture7/board2.jpg), [3](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture7/board3.jpg).
 * 04/29 (Mon) - Stochastic Variational Inference. 
 * 05/01 (Wed) - Amortised Inference. 
 * __**05/06 (Mon) - NO LECTURE. Children's Day.**__
