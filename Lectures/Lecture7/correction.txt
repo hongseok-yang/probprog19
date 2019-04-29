@@ -1,0 +1,11 @@
+1. In the third handwritten note, the weight update should be
+
+w x p0/q0
+
+instead of w x q0/p0.
+
+2. The updated gradient in the step (c) of the top-level algorithm should be
+
+g' + eta x 1/K x sum_{k=1}^K (log w_k) x G_k(alpha,d).
+
+Note that the (log w_k) term is inserted in the formula.
