@@ -8,6 +8,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [April 30] No lecture on 6 May.
+
+The 6th of May is a national holiday. We won't have a lecture on that day.
+
 #### [April 28] [Homework3](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework3/homework3-questions.pdf) is out.
 
 The deadline is 6:00pm on 10 May 2019 (Friday). Submit your solutions to the TAs by putting them in the homework submission box on the third floor of the E3-1 building. If you type up your solutions, you can email them to TAs. In that case, email them to both Mr Kwonsoo Chae (kwonsoo.chae@gmail.com) and Mr Hyunsu Kim (khszone02@kaist.ac.kr).
@@ -110,7 +114,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 04/24 (Wed) - Stochastic Variational Inference. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture7/Lecture7.pdf). Handwritten Notes: [1](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture7/board1.jpg), [2](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture7/board2.jpg), [3](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture7/board3.jpg).
 ([Corrections for the third note](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture7/correction.txt).)
 * 04/29 (Mon) - Stochastic Variational Inference. 
-* 05/01 (Wed) - Amortised Inference. 
+* 05/01 (Wed) - Amortised Inference. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture8/Lecture8.pdf). 
 * __**05/06 (Mon) - NO LECTURE. Children's Day.**__
 * 05/08 (Wed) - Amortised Inference.
 * 05/13 (Mon) - Group presentation 1: Causality.
