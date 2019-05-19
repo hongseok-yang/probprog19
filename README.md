@@ -8,6 +8,10 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [May 19] No lecture on 22 May. 
+
+We will not have a class on the 22nd of May (Wednesday). This is because I am involved in running the interviews for the graduate admission for KAIST CS.
+
 #### [May 12] [Homework4](https://github.com/hongseok-yang/probprog19/blob/master/Homework/Homework4/homework4-questions.pdf) is out.
 
 The deadline is 6:00pm on 31 May 2019 (Friday). Submit your solutions to the TAs by putting them in the homework submission box on the third floor of the E3-1 building. If you type up your solutions, you can email them to TAs. In that case, email them to both Mr Kwonsoo Chae (kwonsoo.chae@gmail.com) and Mr Hyunsu Kim (khszone02@kaist.ac.kr).
@@ -124,8 +128,8 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 05/08 (Wed) - Reparameterisation Gradient, Model Learning via ELBO, IWAE and Doubly-Reparameterised Gradient Estimator. Handwritten Notes: [1](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/note1.jpeg), [2](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/note2.jpeg), [3](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/note3.jpeg), [4](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/note4.jpeg). Incomprehensible Handwritten Notes on Doubly-Reparameterised Gradient Estimator: [1](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/appendix1.jpeg), [2](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/appendix2.jpeg), [3](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/appendix3.jpeg).
 * 05/13 (Mon) - Group presentation 1: Causality. [Students' slides](https://github.com/hongseok-yang/probprog19/blob/master/Projects/Causality.pdf).
 * 05/15 (Wed) - Group presentation 2: Pyro and its internals.
-* 05/20 (Mon) - Denotational Semantics of Probabilistic Programs.
-* __**05/22 (Wed) - NO LECTURE very likely. Graduate Admission.**__ 
+* 05/20 (Mon) - Denotational Semantics of Probabilistic Programs. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture10/Lecture10.pdf). [Note](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture10/Note10.pdf).
+* __**05/22 (Wed) - NO LECTURE. Graduate Admission.**__ 
 * 05/27 (Mon) - Denotational Semantics of Probabilistic Programs. 
 * 05/29 (Wed) - Denotational Semantics of Probabilistic Programs. 
 * 06/03 (Mon) - Student Presentation
