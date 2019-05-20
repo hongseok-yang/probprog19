@@ -127,7 +127,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * __**05/06 (Mon) - NO LECTURE. Children's Day.**__
 * 05/08 (Wed) - Reparameterisation Gradient, Model Learning via ELBO, IWAE and Doubly-Reparameterised Gradient Estimator. Handwritten Notes: [1](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/note1.jpeg), [2](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/note2.jpeg), [3](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/note3.jpeg), [4](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/note4.jpeg). Incomprehensible Handwritten Notes on Doubly-Reparameterised Gradient Estimator: [1](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/appendix1.jpeg), [2](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/appendix2.jpeg), [3](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture9/appendix3.jpeg).
 * 05/13 (Mon) - Group presentation 1: Causality. [Students' slides](https://github.com/hongseok-yang/probprog19/blob/master/Projects/Causality.pdf).
-* 05/15 (Wed) - Group presentation 2: Pyro and its internals.
+* 05/15 (Wed) - Group presentation 2: Pyro and its internals. [Students' slides](https://github.com/hongseok-yang/probprog19/blob/master/Projects/PYRO.pdf).
 * 05/20 (Mon) - Denotational Semantics of Probabilistic Programs. [Slides](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture10/Lecture10.pdf). [Note](https://github.com/hongseok-yang/probprog19/blob/master/Lectures/Lecture10/Note10.pdf).
 * __**05/22 (Wed) - NO LECTURE. Graduate Admission.**__ 
 * 05/27 (Mon) - Denotational Semantics of Probabilistic Programs. 
