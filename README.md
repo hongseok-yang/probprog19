@@ -8,6 +8,33 @@ This course has two goals. The first is to help students to be a good user of an
 
 ## 1. Important Announcements
 
+#### [May 27] Homework 4 - Solve only the first question.
+
+It is likely that we won't have time to cover the theory of Quasi-Borel spaces in the remaining lectures. So, skip the second question in Homework 4, which is about product and function-space constructions for Quasi-Borel spaces.
+
+
+#### [May 27] Project presentation and project report.
+
+We will have project presentation on the 3rd and the 5th of June. Each group will give a 15-minute talk and have a 5-min Q&A session. Here is the order of presentation.
+
+###### 3 June (Monday)
+
+1. Seungmin Ahn, Woogeun Bae, Wonjoon Jang, and Hyungseung Whang.
+2. Youngin Lee, Vu Phuong Thao, Magnus Myrmo Osberg, and Hyeonguk Ryu.
+3. Changmin Lee, An Guoyuan, Minsu Kim, and Ahcheong Lee.
+4. Seongwoong Jo, Dohyun Kim, Minji Lee, and Dongpyeong Seo.
+
+###### 5 June (Wednesday)
+
+1. Yoonseo Kim, Haebeom Lee, and Yuna Seol.
+2. Seunghyeob Lee.
+3. Sanguk Park.
+
+###### Project report. Due: 2:00pm on 7 June (Friday).
+
+All groups including those who do track B should submit reports on what they did and what they learnt. One report is enough for each group. The reports should have at most two pages. As usual, you can email your report to TAs and me, or submit it in the homework submission box.
+
+
 #### [May 19] No lecture on 22 May. 
 
 We will not have a class on the 22nd of May (Wednesday). This is because I am involved in running the interviews for the graduate admission for KAIST CS.
